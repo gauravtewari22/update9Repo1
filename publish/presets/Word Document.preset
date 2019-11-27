@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <name>Word Document</name>
+  <type>word</type>
+  <title>Blank Project</title>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/Default.toc</path>
+      <name>Default</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/Default.glo</path>
+      <name>Default</name>
+    </glossary>
+    <masterpage></masterpage>
+    <brs type="array"></brs>
+  </content>
+  <word>
+    <stylemapping>{&quot;selectorMap&quot;:{},&quot;discardSelectors&quot;:[]}</stylemapping>
+    <insertTopicBreak type="boolean">false</insertTopicBreak>
+  </word>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <starterPage>Default.docx</starterPage>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <outputPath>C:/Users/gtewari/Documents/My RoboHelp Projects/outputs/update9project2/Word Document</outputPath>
+</preset>
